@@ -1,3 +1,10 @@
+# Archivos no necesarios para el despliegue web
+Registros Fotograficos/
+Documentos Referencia/
+index V.*.html
+DESIGN.md
+
+# Archivos del sistema
 Thumbs.db
 ehthumbs.db
 Desktop.ini
